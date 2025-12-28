@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PROFIL MAHASISWA</title>
+        <link rel="stylesheet" href="salma.css">
+    </head>
+    <body>
+        <header>
+            <h1>Привет👋</h1>
+        </header>
+
+    <body style="background-color: rgb(238, 172, 189); color: rgb(10, 10, 10);">
+        <div class="fotoku">
+        <h1>Salma Az Zahra</h1>
+        <img src="salma.poto.jpeg" alt="foto salma" class="foto-salma">
+        </div>
+        <br>
+<div class="aboutme">
+        <p>My name is Salma Az Zahra. I am from Ngawi, East Java. Fun fact, I love to travel to different places, and I really want to visit Yogyakarta.I like learning various foreign languages</p>
+    </div>
+        <br>
+        <!-- navigation bar -->
+                <div class="navbar">
+                    <ul>
+                    <li><a href="kontak">Contact</a></li>
+                    <a href="https://wa.me/6288211851" target="_blank">💬Chat via WhatsApp</a>
+                    <li><a href="about">Social Media</a></li>
+                    <a href="https://www.instagram.com/sazhraz_?igsh=M3NnbGNlNHRweXZ0" target="_blank">📸Send message via Instagram</a>
+                    </ul>
+        </div>
+        <!--conten 1-->
+                <div class="c1">
+                    <h4>
+                    <p>PROFIL</p>
+                    <p><strong>Nama :</strong>Salma Az Zahra</p>
+                    <p><strong>NIM :</strong>2511080060</p>
+                    <p><strong>Asal Sekolah:</strong>SMA BINA INSAN MANDIRI BOGOR</p>
+                    <p><strong>Umur :</strong>18 tahun</p>
+                    </h4>
+                </div>
+        <!--conten 2-->
+        
+        <div class="con2">
+    <h2>HOBI</h2>
+    <ul>
+        <li>🍳Memasak</li>
+        <li>🧹Beres-beres dan bersih-bersih</li>
+        <li>👕Mencuci</li>
+        <li>✈️Traveling</li>
+    </ul>
+</div>
+<!--comment-->
+        
+  <!-- Bagian utama berisi sidebar dan konten -->
+  <main class="container">
+    <aside class="sidebar">
+      <h3>MY DREAMS AND QUOTE</h3>
+     <p>aku mau jadi cast coc s3 untuk mewakili STIKOM EL-RAHMA BOGOR, Mau ikut student exchange, ikur seminar international, keliling dunia , dan menguasai berbagai bahasa</p>
+     <p>"Век живи — век учись" </p>
+    </aside>
+               <a href="https://wa.me/6288211851" target="_blank">Chat via WhatsApp</a>
+                <button type="button" onclick="alert('Terima kasih sudah berkunjung!🌸')">Terima Kasih</button>
+        </div>
+               <footer> Salma — Si Paling Ceria ✨</footer>
+    </body>
+</html>
